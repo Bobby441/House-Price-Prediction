@@ -28,16 +28,22 @@ Evaluates the model using metrics like Mean Absolute Error (MAE) and R-squared (
 
 This script serves as a foundational example of a regression analysis and machine learning project for predicting house sale prices. Its future usage and applications include:
 
-## Model Improvement: Users can explore and implement more advanced regression models such as Random Forest Regressor, Gradient Boosting Regressor, or Neural Networks to potentially improve prediction accuracy.
+## Model Improvement: 
+Users can explore and implement more advanced regression models such as Random Forest Regressor, Gradient Boosting Regressor, or Neural Networks to potentially improve prediction accuracy.
 
-Feature Engineering: The script demonstrates a basic feature engineering step by creating the 'TotalSF' feature. Users can further experiment with feature engineering techniques to enhance model performance.
+## Feature Engineering: 
+The script demonstrates a basic feature engineering step by creating the 'TotalSF' feature. Users can further experiment with feature engineering techniques to enhance model performance.
 
-Hyperparameter Tuning: Implementing hyperparameter tuning techniques such as Grid Search or Randomized Search can help optimize model performance.
+## Hyperparameter Tuning: 
+Implementing hyperparameter tuning techniques such as Grid Search or Randomized Search can help optimize model performance.
 
-Deployment: Once a satisfactory model is trained, it can be deployed as part of a real-world application for predicting house sale prices.
+## Deployment: 
+Once a satisfactory model is trained, it can be deployed as part of a real-world application for predicting house sale prices.
 
-Documentation: The script can be documented and included in data science or machine learning project portfolios to showcase data preprocessing, model building, and evaluation skills.
+## Documentation: 
+The script can be documented and included in data science or machine learning project portfolios to showcase data preprocessing, model building, and evaluation skills.
 
-Benchmarking: Users can use this script as a benchmark for evaluating other regression models on housing price prediction tasks.
+## Benchmarking: 
+Users can use this script as a benchmark for evaluating other regression models on housing price prediction tasks.
 
 In summary, this script provides a starting point for house price prediction projects and can be extended, improved, and customized to fit specific data science and machine learning requirements.
