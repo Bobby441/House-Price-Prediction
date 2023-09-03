@@ -28,7 +28,7 @@ Evaluates the model using metrics like Mean Absolute Error (MAE) and R-squared (
 
 This script serves as a foundational example of a regression analysis and machine learning project for predicting house sale prices. Its future usage and applications include:
 
-Model Improvement: Users can explore and implement more advanced regression models such as Random Forest Regressor, Gradient Boosting Regressor, or Neural Networks to potentially improve prediction accuracy.
+## Model Improvement: Users can explore and implement more advanced regression models such as Random Forest Regressor, Gradient Boosting Regressor, or Neural Networks to potentially improve prediction accuracy.
 
 Feature Engineering: The script demonstrates a basic feature engineering step by creating the 'TotalSF' feature. Users can further experiment with feature engineering techniques to enhance model performance.
 
